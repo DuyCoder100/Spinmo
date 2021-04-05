@@ -1,0 +1,531 @@
+
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+ THE USERNAME OR PASSWORD YOU've ENTERED IS INVALID 
+ 
+ 
+ 
+ 
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 1 
+Department: Computer Science           Semester: 1st 
+
+
+
+IMPORTANT INSTRUCTIONS FOR REGISTRATION PROCESS
+ 1. You need to select a minimum of 2 core and 1 non core subjects. 
+ 2. You can select a maximum of 4 core and 3 none core subjects. 
+
+
+ Which you want to select first? 
+ 
+1: Core Subjects 
+2: Non-Core Subjects 
+
+
+ Enter your choice : 1
+
+ How many core-subjects you want to register? ( Min 2 & Max 4 ) 
+5
+ 
+ 
+ You can only select 4 core subjects maximum 
+
+
+
+
+
+
+
+ How many core-subjects you want to register? ( Min 2 & Max 4 ) 
+3
+
+ C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS      
+
+
+ BE     Basic ELectronics             3           
+
+ CP     Computer Programming          3            
+
+ ICT    Computer Technology           2             
+
+ CL     Calculus                      2              
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ?  
+ Choice 2 ?  
+ Choice 3 ? 
+You've registered Calculus - Advanced' successfully!! 
+
+
+
+ 
+
+You've registered Informations &n Tech successfully!! 
+
+
+
+ 
+
+You've registered Basic Electronics -I successfully!! 
+
+
+
+ 
+
+
+
+ TOTAL PRICE FOR 3 CORE SUBJECTS IS : 30000 PKR 
+
+
+
+
+
+ How many Non core-subjects you want to register? ( Min 1 & Max 3 ) 
+3
+
+ N O N    C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS    
+
+
+ ISL       Islamiat                 2           
+
+ PS        Pakistan Studies         2            
+
+ EN        English                  2             
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ?  
+ Choice 2 ?  
+ Choice 3 ? 
+
+
+ TOTAL PRICE FOR 3 NON-CORE SUBJECTS IS : 21000 PKR 
+
+
+
+ We wish you Good luck studying these courses. 
+
+
+
+
+0: LOG OUT 
+
+4: QUIT
+
+6: Generate Slip
+
+
+
+
+ Enter your choice: 4THANK YOU WE WILL MEET AGAIN BEST OF LUCK 
+
+
+
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 1 
+Department: Computer Science           Semester: 1st 
+
+
+
+IMPORTANT INSTRUCTIONS FOR REGISTRATION PROCESS
+ 1. You need to select a minimum of 2 core and 1 non core subjects. 
+ 2. You can select a maximum of 4 core and 3 none core subjects. 
+
+
+ Which you want to select first? 
+ 
+1: Core Subjects 
+2: Non-Core Subjects 
+
+
+ Enter your choice : 1
+
+ How many core-subjects you want to register? ( Min 2 & Max 4 ) 
+2
+
+ C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS      
+
+
+ BE     Basic ELectronics             3           
+
+ CP     Computer Programming          3            
+
+ ICT    Computer Technology           2             
+
+ CL     Calculus                      2              
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ?  
+ Choice 2 ? 
+You've registered Computer Programming successfully!! 
+
+
+
+ 
+
+You've registered Calculus - Advanced' successfully!! 
+
+
+
+ 
+
+
+
+ TOTAL PRICE FOR 2 CORE SUBJECTS IS : 20000 PKR 
+
+
+
+
+
+ How many Non core-subjects you want to register? ( Min 1 & Max 3 ) 
+1
+
+ N O N    C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS    
+
+
+ ISL       Islamiat                 2           
+
+ PS        Pakistan Studies         2            
+
+ EN        English                  2             
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ? 
+
+
+ TOTAL PRICE FOR 1 NON-CORE SUBJECTS IS : 7000 PKR 
+
+
+
+ We wish you Good luck studying these courses. 
+
+
+
+
+0: LOG OUT 
+
+4: QUIT
+
+6: Generate Slip
+
+
+
+
+ Enter your choice: 4THANK YOU WE WILL MEET AGAIN BEST OF LUCK 
+
+
+
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 2
+
+            YOU HAVEn't REGISTERED ANY COURSES YET   
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 3
+
+C O R E    S U B J E C T S 
+ 
+ 
+ 1. Computer Programming 
+ 
+ 2. Basic Electronics 
+ 
+ 3. Introduction To Computer Technology 
+ 
+ 4. Calculus 
+ 
+ N O N    C O R E    S U B J E C T S 
+ 
+ 
+ 1. Islamiat 
+ 
+ 2. English 
+ 
+ 3. Pakistan Studies 
+ 
+ 
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 2
+
+
+
+
+W E L C O M E   T O   S P I M N O 
+
+
+
+NOW YOU ARE GOING TO REGISTERE YOUR COURSES
+
+
+                                                     0~ LOGOUT  |  4~ QUIT 
+
+ 
+ 
+ 1: Add Subject
+ 
+ 2: View Registered Courses  
+ 
+ 3: View All Subjects 
+
+
+
+
+
+ Where to go? Enter your choice : 1 
+Department: Computer Science           Semester: 1st 
+
+
+
+IMPORTANT INSTRUCTIONS FOR REGISTRATION PROCESS
+ 1. You need to select a minimum of 2 core and 1 non core subjects. 
+ 2. You can select a maximum of 4 core and 3 none core subjects. 
+
+
+ Which you want to select first? 
+ 
+1: Core Subjects 
+2: Non-Core Subjects 
+
+
+ Enter your choice : 1
+
+ How many core-subjects you want to register? ( Min 2 & Max 4 ) 
+3
+
+ C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS      
+
+
+ BE     Basic ELectronics             3           
+
+ CP     Computer Programming          3            
+
+ ICT    Computer Technology           2             
+
+ CL     Calculus                      2              
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ?  
+ Choice 2 ?  
+ Choice 3 ? 
+You've registered Basic Electronics -I successfully!! 
+
+
+
+ 
+
+You've registered Informations &n Tech successfully!! 
+
+
+
+ 
+
+You've registered Calculus - Advanced' successfully!! 
+
+
+
+ 
+
+
+
+ TOTAL PRICE FOR 3 CORE SUBJECTS IS : 30000 PKR 
+
+
+
+
+
+ How many Non core-subjects you want to register? ( Min 1 & Max 3 ) 
+2
+
+ N O N    C O R E   S U B J E C T S :                
+
+
+
+CODE       SUBJECTS            CREDIT HOURS    
+
+
+ ISL       Islamiat                 2           
+
+ PS        Pakistan Studies         2            
+
+ EN        English                  2             
+
+ Enter subject code for choice. 
+
+ 
+ Choice 1 ?  
+ Choice 2 ? 
+ You've entered invalid subject code. 
+  
+ Choice 2 ? 
+
+
+ TOTAL PRICE FOR 2 NON-CORE SUBJECTS IS : 14000 PKR 
+
+
+
+ We wish you Good luck studying these courses. 
+
+
+
+
+0: LOG OUT 
+
+4: QUIT
+
+6: Generate Slip
+
+
+
+
+ Enter your choice: 6
+
+
+ O P E R A T I O N     S U C C E S S F U L 
+
+
+S.No    Registered Courses    Credit Hours    Price 
+
+1     Basic Electronics -I           4   30000 PKR 
+2     Informations &n Tech           4   30000 PKR 
+3     Calculus - Advanced'           4   30000 PKR 
+4     Pakistan's Studies I          3     14000 PKR
+5     English - Advanced I          3     14000 PKR
