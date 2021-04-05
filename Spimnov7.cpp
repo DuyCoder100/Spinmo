@@ -12,6 +12,7 @@ void box(int x, int y);
 char stars();
 int main()
 {
+	//test cua Khoa
 	ofstream myfile;
 	myfile.open("spimno.txt",ios::app);
 	
